@@ -1,0 +1,19 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "files.eol": "\n",
+  "files.exclude": {
+    ".eslintrc.json": true,
+    ".gitignore": true,
+    ".husky": true,
+    ".next": true,
+    ".prettierignore": true,
+    ".prettierrc.json": true,
+    "next-env.d.ts": true,
+    "next.config.js": true,
+    "node_modules": true,
+    "pnpm-lock.yaml": true,
+    "README.md": true,
+    "tsconfig.json": true
+  }
+}
