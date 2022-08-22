@@ -4,11 +4,13 @@
   "files.eol": "\n",
   "files.exclude": {
     ".eslintrc.json": true,
+    ".github": true,
     ".gitignore": true,
     ".husky": true,
     ".next": true,
     ".prettierignore": true,
     ".prettierrc.json": true,
+    ".vscode": true,
     "next-env.d.ts": true,
     "next.config.js": true,
     "node_modules": true,
